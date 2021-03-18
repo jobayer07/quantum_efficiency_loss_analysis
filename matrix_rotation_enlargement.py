@@ -1,3 +1,7 @@
+"""
+@author: Mohammad Jobayer Hossain
+"""
+
 import numpy as np
 import scipy.ndimage  #used for image enlargement
 x = np.array([[1, 2, 3, 4], [4, 5, 6, 7], [7, 8, 9, 10], [10, 11, 12, 13]], np.int32)
